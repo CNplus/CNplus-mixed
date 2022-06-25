@@ -50,7 +50,7 @@ int namefind(string in0)
 int main()
 {
    string username = "usr";
-   cout << "Welcome to CNplus-tool-mixed IDLE." << endl << endl 
+   cout << "Welcome to CNplus-tool-mixed IDLE(vision 0.0.1-dev)." << endl << endl 
    << "Hello From https://github.com/CNplus/CNplus-mixed , https://github.com/Charlie894 , t.me/AS13379 and another editor." << endl << endl;
    cout << "Type exit() or 退出() to exit this program.If you want to see more about exit() or 退出(),please go to our wiki." << endl << endl;
    for(;;){
