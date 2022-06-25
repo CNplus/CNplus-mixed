@@ -37,7 +37,7 @@ int namefind(string in0)
 		if(idx != 0){
 			exit(411);
 		}
-		for(int i = 1;i < in0.size();i++)
+		for(int i = 0;i < in0.size();i++)
 		{
 			if(i != 0 or i != 1 or i != 2){
 				in1 += in0[i];
