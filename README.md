@@ -1,7 +1,8 @@
 # CNplus-mixed
-<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/CNplus/CNplus-mixed"></img>
 <img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/CNplus/CNplus-mixed"></img>
-<img alt="GitHub file size in bytes" src="https://img.shields.io/github/size/CNplus/CNplus-mixed"></img>
+<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/CNplus/CNplus-mixed"></img>
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/CNplus/CNplus-mixed/total"></img>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CNplus/CNplus-mixed?style=social">
 
 Copyright [2021~2022] [CNplus]
 
