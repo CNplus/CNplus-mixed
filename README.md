@@ -1,10 +1,9 @@
-# CNplus-python
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/CNplus/CNplus-python?style=for-the-badge"><b> </b><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/CNplus/cnplus-python/total?style=for-the-badge">
-<img src="https://img.shields.io/badge/Robeask%E7%BE%A4%E7%BB%84-%20%09http%3A%2F%2Fcnpy.robeeask.com-ff69b4?style=for-the-badge">
-   <a herf="http://cnpy.robeeask.com"></herf>
-</img>
+# CNplus-mixed
+<img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/CNplus/CNplus-mixed"></img>
+<img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/CNplus/CNplus-mixed"></img>
+<img alt="GitHub file size in bytes" src="https://img.shields.io/github/size/CNplus/CNplus-mixed"></img>
 
-Copyright [2021] [CNplus]
+Copyright [2021~2022] [CNplus]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -25,10 +24,6 @@ limitations under the License.
 虽然CNplus并没有易语言完善,但**正版CNplus**是免费的,而正版易语言则需要支付200~700CNY后拿到加密狗才能使用正版,相较于易语言,CNplus只需要搭建好python环境,将CNplus.py与您的项目文件置于同一目录即可.
 
 ---
-~**我们有三个分支，分别是main、beta、和dev**~
-
-~main是已经经过测试的稳定版本，且在Beta分值发布后一周内无人提出bug，Beta是经过dev分支使用者测试过的较稳定版本，dev分支即为最新版本，当我们有新的版本时，会优先发布到dev分支，当dev分支发布后14天无issues反馈便会发布到Beta分支。~
-beta、dev分支已废弃
 ## Wiki
 我们为您提供了非常完整且适合新手的Wiki，您可以[点此进入](https://github.com/CNplus/CNplus-mixed/wiki)
 
