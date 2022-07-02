@@ -17,6 +17,17 @@ int exit()
 	cout << "thanks for your using";
 	exit(413);
 }
+int settings()
+{
+	int choose;
+	cout << "--------------------" << endl << "welcome to CNplus-mixed IDLE settings" << endl << "欢迎使用CNplus-mixed IDLE设置" << endl << "----IDLE----" << endl << "0.修改编译器颜色" << endl << "1.修改当前IDLE窗口名称" << endl << "----user----" << endl << "2.修改用户名称" << endl << "--------------------" << endl;
+	cin >> choose;
+	if(choose == 0)
+	{
+		string seg;
+		cout
+	}
+}
 int namefind(string in0)
 {
 	string::size_type idx;
@@ -44,6 +55,10 @@ int namefind(string in0)
 			}
 		}
 		pout(in1);
+	}
+	idx = in0.find("设置");
+	if (idx != string::npos){
+		settings();
 	}
 	return 0;
 }
