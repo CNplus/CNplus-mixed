@@ -22,4 +22,4 @@ limitations under the License.
 ## Wiki
 我们为您提供了非常完整且适合新手的Wiki，您可以[点此进入](https://github.com/CNplus/CNplus-tool-mixed/wiki)
 
-# 如果您喜欢该项目，请您按下右上角的Star以表示您对我们的支持
+>如果您喜欢该项目，请您按下右上角的Star以表示您对我们的支持
