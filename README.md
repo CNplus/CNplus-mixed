@@ -19,6 +19,17 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 ---
+## Useing
+### Windows
+#### 编译运行
+安装DEV C++，克隆仓库，编译main.cpp
+#### 直接运行（推荐）
+我们提供了编译后的exe文件，下载运行即可
+### Ubuntu
+#### 编译运行
+```Shell
+apt install -y g++ && apt install -y wget && wget https://raw.githubusercontent.com/CNplus/CNplus-mixed/main/main.cpp && g++ main.cpp -o CNplus-mixed && ./CNplus-mixed
+```
 ## Wiki
 我们为您提供了非常完整且适合新手的Wiki，您可以[点此进入](https://github.com/CNplus/CNplus-tool-mixed/wiki)
 
